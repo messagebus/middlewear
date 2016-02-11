@@ -6,7 +6,7 @@ require 'middlewear/version'
 Gem::Specification.new do |spec|
   spec.name          = 'middlewear'
   spec.version       = Middlewear::VERSION
-  spec.authors       = ['Eric Saxby']
+  spec.authors       = ['Eric Saxby', 'Matt Camuto']
   spec.email         = ['sax@livinginthepast.org']
 
   spec.summary       = %q{Generic middleware registry and runner}
